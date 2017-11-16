@@ -1,13 +1,19 @@
 # Kubernetes Client
 
+### CircleCI Build Status
+[![CircleCI](https://circleci.com/gh/lachie83/k8s-kubectl.svg?style=svg)](https://circleci.com/gh/lachie83/k8s-kubectl)
+
+### Container Details
 [![](https://images.microbadger.com/badges/image/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own version badge on microbadger.com")
 [![](https://images.microbadger.com/badges/commit/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own commit badge on microbadger.com")
 
 # Supported tags and respective `Dockerfile` links
-* `v1.6.0`, `latest`    [(v1.6.0/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.6.0/Dockerfile)
-* `v1.5.5`,     [(v1.5.5/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.5.5/Dockerfile)
-* `v1.4.8`,     [(v1.4.8/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.4.8/Dockerfile)
+* `v1.8.3`, `latest`    [(v1.8.3/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.8.3/Dockerfile)
+* `v1.7.10`,     [(v1.7.10/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.7.10/Dockerfile)
+* `v1.6.11`,    [(v1.6.11/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.6.11/Dockerfile)
+* `v1.5.8`,     [(v1.5.8/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.5.8/Dockerfile)
+* `v1.4.12`,    [(v1.4.12/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.4.12/Dockerfile)
 * `v1.3.10`,    [(v1.3.10/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.3.10/Dockerfile)
 * `v1.2.6`,     [(v1.2.6/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.2.6/Dockerfile)
 * `v1.1.8`,     [(v1.1.8/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.1.8/Dockerfile)
